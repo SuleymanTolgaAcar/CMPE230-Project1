@@ -1,4 +1,4 @@
-# CMPE 230 – Project 1
+# CMPE 230 Project 1 - LOTR Themed Interpreter in C
 
 This project can be split up into two parts: parsing the sentences and executing them. We parsed the input in the main.c file. We have the inventory management functionality in inventory.h file and we have another file to sort of link them called execute.h. We created those additional files as header files and statically linked them to the program.
 
